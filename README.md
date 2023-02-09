@@ -1,10 +1,9 @@
-# All about bug bounty
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
+## All about bug bounty
+These are my bug bounty notes that I have gathered from various sources !!!!!
 
-![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
+## KEEP HACKING 
+##👨‍💻❤️👨‍💻❤️😎
+
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md)
